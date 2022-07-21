@@ -7,7 +7,7 @@ pip install pymysql
 
 ------------【目录结构介绍】-------------------
 base:热
-bin:
+bin:是
 config:
 data:
 logs:
