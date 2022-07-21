@@ -5,7 +5,7 @@ pip install allure-pytest
 pip install xlrd
 pip install pymysql
 
-------------【目录结构介绍】-------------------test---test11
+------------【目录结构介绍】-------------------test---test11ddddddddddd别人提交的
 base:
 bin:
 config:
