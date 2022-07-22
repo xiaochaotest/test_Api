@@ -10,7 +10,8 @@ base:热
 bin:是点点点
 config:地方
 data:
-logs:
+
+logs:长长的
 page:
 report:
 testCase:
