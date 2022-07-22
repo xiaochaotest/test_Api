@@ -6,11 +6,11 @@ pip install xlrd
 pip install pymysql
 
 ------------【目录结构介绍】-------------------
-base:热
+base:
 bin:
 config:
 data:
-logs:
+logs:长长的
 page:
 report:
 testCase:

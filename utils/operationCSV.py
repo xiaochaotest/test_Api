@@ -5,7 +5,7 @@
 import csv
 #按照列表的格式读取
 def readCsvList():
-   with open('CSV.csv','r')as f:
+   with open('data.csv','r')as f:
       reader = csv.reader(f)
       next(reader)
       #用迭代器的方式读取
