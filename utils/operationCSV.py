@@ -3,6 +3,7 @@
 #Author:xiaochao
 
 import csv
+import os
 #按照列表的格式读取
 def readCsvList():
    with open('data.xls','r')as f:
